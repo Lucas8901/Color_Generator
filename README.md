@@ -2,7 +2,7 @@
 <br>
 
 <h2 align="left">Descrição do projeto:</h2>
-<p align="left"> Este projeto foi feito em sua grande parte em JS, principal funcionalidade e usar o background do CSS para gerar cores aleatórias via JavaScript</p>
+<p align="left"> Este projeto foi feito em sua grande parte em JS, <br> principal funcionalidade e usar o background do CSS para gerar cores aleatórias via JavaScript</p>
 <br>
 
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
@@ -20,7 +20,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white"/>
+   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 </p>
 <br>
