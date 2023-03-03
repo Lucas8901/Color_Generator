@@ -8,13 +8,9 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/Desafio-08-Codelandia-Codemoji/blob/main/gif/bandicam%202023-01-24%2018-30-08-859.gif"/>
+  <img src="https://github.com/Lucas8901/Color_Generator/blob/main/gif/bandicam%202023-03-02%2020-39-30-217.gif"/>
   </div>
   
- <br>
- <p> Teste em seu dispositivo📱: <br> https://desafio-08-codelandia-codemoji.vercel.app</p>
- <br>
-
 <br>
 <br>
 
@@ -24,6 +20,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Javascript-1572B6?style=for-the-badge&logo=javascript&logoColor=white"/>
 </div>
 </p>
 <br>
